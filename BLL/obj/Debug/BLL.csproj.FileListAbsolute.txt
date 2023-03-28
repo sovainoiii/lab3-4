@@ -1,0 +1,11 @@
+E:\CSharp\ThreeLayerModel\BLL\bin\Debug\BLL.dll
+E:\CSharp\ThreeLayerModel\BLL\bin\Debug\BLL.pdb
+E:\CSharp\ThreeLayerModel\BLL\bin\Debug\DAL.dll
+E:\CSharp\ThreeLayerModel\BLL\bin\Debug\DTO.dll
+E:\CSharp\ThreeLayerModel\BLL\bin\Debug\DAL.pdb
+E:\CSharp\ThreeLayerModel\BLL\bin\Debug\DTO.pdb
+E:\CSharp\ThreeLayerModel\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\CSharp\ThreeLayerModel\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\CSharp\ThreeLayerModel\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\CSharp\ThreeLayerModel\BLL\obj\Debug\BLL.dll
+E:\CSharp\ThreeLayerModel\BLL\obj\Debug\BLL.pdb

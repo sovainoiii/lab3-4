@@ -1,0 +1,9 @@
+E:\CSharp\ThreeLayerModel\DAL\bin\Debug\DAL.dll
+E:\CSharp\ThreeLayerModel\DAL\bin\Debug\DAL.pdb
+E:\CSharp\ThreeLayerModel\DAL\bin\Debug\DTO.dll
+E:\CSharp\ThreeLayerModel\DAL\bin\Debug\DTO.pdb
+E:\CSharp\ThreeLayerModel\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+E:\CSharp\ThreeLayerModel\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\CSharp\ThreeLayerModel\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\CSharp\ThreeLayerModel\DAL\obj\Debug\DAL.dll
+E:\CSharp\ThreeLayerModel\DAL\obj\Debug\DAL.pdb
